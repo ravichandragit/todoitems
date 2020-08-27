@@ -1,24 +1,24 @@
 {
  "todoitems: [
     {
-        id:1,
-        task : 'take out the trash',
-        completed : false
+        "id":1,
+        "task" : "take out the trash",
+        "completed" : false
     },
     {
-        id:2,
-        task : 'Cleaning the home',
-        completed : true
+        "id":2,
+        "task" : "Cleaning the home",
+        "completed" : true
     },
     {
-        id:3,
-        task : 'Shopping groceries',
-        completed : false
+        "id":3,
+        "task" : "Shopping groceries",
+        "completed" : false
     },
     {
-        id:4,
-        task : 'Learning React',
-        completed : false
+        "id":4,
+        "task" : "Learning React",
+        "completed" : false
     }
 ]
 }
